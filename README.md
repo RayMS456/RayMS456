@@ -2,10 +2,10 @@
 # Olá, eu sou a Rayssa!✨
 - 🌱Estudante de Desenvolvimento de Sistemas
 - 😄 Pronomes: Ela/dela
-- Aprendendo em Python, HTML e CSS
-- Preparando-se para o mercado de tecnologia
+- 📖Aprendendo em Python, HTML e CSS
+- 💡Preparando-se para o mercado de tecnologia
 
-## Tecnologias que estudo
+## 💻Tecnologias que estudo
 <div style="display: inline_block">
 <img align="center" alt="Python" height="40" width="40"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
