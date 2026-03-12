@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there everyone 👋
 
 # Olá, eu sou a Rayssa!
 - Estudante de Desenvolvimento de Sistemas
