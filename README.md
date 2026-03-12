@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Olá, eu sou a Rayssa!
+- Estudante de Desenvolvimento de Sistemas
+- Focado em Python, HTML e CSS
+- Preparando-se para o mercado de tecnologia
+- Contato: rayssamenezessouza456@gmail.com
+
 <!--
 **RayMS456/RayMS456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: She/her
 - ⚡ Fun fact: ...
 -->
